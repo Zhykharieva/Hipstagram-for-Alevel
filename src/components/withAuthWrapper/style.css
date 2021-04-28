@@ -1,0 +1,30 @@
+.auth {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../../img/road.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .hipsta-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+  }
+  .hipsta-icon {
+    width: 100px;
+    height: 100px;
+    background-image: url('../../img/instagram.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 30px;
+  }
+
+  h1 {
+    font-size: 60px;
+    color: rgb(0, 0, 94);
+  }
